@@ -1,0 +1,2762 @@
+{
+  "categoryData" : [ {
+    "category" : "groupPeriod",
+    "questions" : [ {
+      "answer" : "Hydrogen",
+      "question" : "Which element is in group 1 and period 1 ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "Which element is in group 18 and period 1 ?"
+    }, {
+      "answer" : "Potassium",
+      "question" : "Which element is in group 1 and period 4 ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Which element is in group 2 and period 4 ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Which element is in group 2 and period 3 ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "Which element is in group 17 and period 3 ?"
+    }, {
+      "answer" : "Krypton",
+      "question" : "Which element is in group 18 and period 4 ?"
+    }, {
+      "answer" : "Xenon",
+      "question" : "Which element is in group 18 and period 5 ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "Which element is in group 14 and period 2 ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "Which element is in group 15 and period 2 ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Which element is in group 16 and period 2 ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Which element is in group 17 and period 2 ?"
+    }, {
+      "answer" : "Gold",
+      "question" : "Which element is in group 11 and period 6 ?"
+    }, {
+      "answer" : "Mercury",
+      "question" : "Which element is in group 12 and period 6 ?"
+    }, {
+      "answer" : "Tungsten",
+      "question" : "Which element is in group 6 and period 6 ?"
+    }, {
+      "answer" : "Technetium",
+      "question" : "Which element is in group 7 and period 5 ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Which element is in group 1 and period 2 ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Which element is in group 2 and period 2 ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Which element is in group 13 and period 2 ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "Which element is in group 18 and period 2 ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Which element is in group 2 and period 3 ?"
+    }, {
+      "answer" : "Aluminum",
+      "question" : "Which element is in group 13 and period 3 ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Which element is in group 14 and period 3 ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Which element is in group 15 and period 3 ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Which element is in group 16 and period 3 ?"
+    }, {
+      "answer" : "Argon",
+      "question" : "Which element is in group 18 and period 3 ?"
+    }, {
+      "answer" : "Scandium",
+      "question" : "Which element is in group 3 and period 4 ?"
+    }, {
+      "answer" : "Titanium",
+      "question" : "Which element is in group 4 and period 4 ?"
+    }, {
+      "answer" : "Vanadium",
+      "question" : "Which element is in group 5 and period 4 ?"
+    }, {
+      "answer" : "Chromium",
+      "question" : "Which element is in group 6 and period 4 ?"
+    }, {
+      "answer" : "Manganese",
+      "question" : "Which element is in group 7 and period 4 ?"
+    }, {
+      "answer" : "Iron",
+      "question" : "Which element is in group 8 and period 4 ?"
+    }, {
+      "answer" : "Cobalt",
+      "question" : "Which element is in group 9 and period 4 ?"
+    }, {
+      "answer" : "Nickel",
+      "question" : "Which element is in group 10 and period 4 ?"
+    }, {
+      "answer" : "Copper",
+      "question" : "Which element is in group 11 and period 4 ?"
+    }, {
+      "answer" : "Zinc",
+      "question" : "Which element is in group 12 and period 4 ?"
+    }, {
+      "answer" : "Gallium",
+      "question" : "Which element is in group 13 and period 4 ?"
+    }, {
+      "answer" : "Germanium",
+      "question" : "Which element is in group 14 and period 4 ?"
+    }, {
+      "answer" : "Arsenic",
+      "question" : "Which element is in group 15 and period 4 ?"
+    }, {
+      "answer" : "Selenium",
+      "question" : "Which element is in group 16 and period 4 ?"
+    }, {
+      "answer" : "Bromine",
+      "question" : "Which element is in group 17 and period 4 ?"
+    }, {
+      "answer" : "Krypton",
+      "question" : "Which element is in group 12 and period 4 ?"
+    }, {
+      "answer" : "Rubidium",
+      "question" : "Which element is in group 1 and period 5 ?"
+    }, {
+      "answer" : "Strontium",
+      "question" : "Which element is in group 2 and period 5 ?"
+    }, {
+      "answer" : "Yttrium",
+      "question" : "Which element is in group 3 and period 5 ?"
+    }, {
+      "answer" : "Zirconium",
+      "question" : "Which element is in group 4 and period 5 ?"
+    }, {
+      "answer" : "Niobium",
+      "question" : "Which element is in group 5 and period 5 ?"
+    }, {
+      "answer" : "Molybdenum",
+      "question" : "Which element is in group 6 and period 5 ?"
+    }, {
+      "answer" : "Ruthenium",
+      "question" : "Which element is in group 8 and period 5 ?"
+    }, {
+      "answer" : "Rhodium",
+      "question" : "Which element is in group 9 and period 5 ?"
+    }, {
+      "answer" : "Palladium",
+      "question" : "Which element is in group 10 and period 5 ?"
+    }, {
+      "answer" : "Silver",
+      "question" : "Which element is in group 11 and period 5 ?"
+    }, {
+      "answer" : "Cadmium",
+      "question" : "Which element is in group 12 and period 5 ?"
+    }, {
+      "answer" : "Indium",
+      "question" : "Which element is in group 13 and period 5 ?"
+    }, {
+      "answer" : "Tin",
+      "question" : "Which element is in group 14 and period 5 ?"
+    }, {
+      "answer" : "Antimony",
+      "question" : "Which element is in group 15 and period 5 ?"
+    }, {
+      "answer" : "Tellurium",
+      "question" : "Which element is in group 16 and period 5 ?"
+    }, {
+      "answer" : "Iodine",
+      "question" : "Which element is in group 17 and period 5 ?"
+    }, {
+      "answer" : "Cesium",
+      "question" : "Which element is in group 1 and period 6 ?"
+    }, {
+      "answer" : "Barium",
+      "question" : "Which element is in group 2 and period 6 ?"
+    }, {
+      "answer" : "Lanthanum",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 57 ?"
+    }, {
+      "answer" : "Cerium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 58 ?"
+    }, {
+      "answer" : "Praseodymium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 59 ?"
+    }, {
+      "answer" : "Neodymium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 60 ?"
+    }, {
+      "answer" : "Promethium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 61 ?"
+    }, {
+      "answer" : "Samarium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 62 ?"
+    }, {
+      "answer" : "Europium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 63 ?"
+    }, {
+      "answer" : "Gadolinium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 64 ?"
+    }, {
+      "answer" : "Terbium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 65 ?"
+    }, {
+      "answer" : "Dysprosium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 66 ?"
+    }, {
+      "answer" : "Holmium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 67 ?"
+    }, {
+      "answer" : "Erbium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 68 ?"
+    }, {
+      "answer" : "Thulium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 69 ?"
+    }, {
+      "answer" : "Ytterbium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 70 ?"
+    }, {
+      "answer" : "Lutetium",
+      "question" : "Which element is in group of Lanthanide, period 6 and atomic number 71 ?"
+    }, {
+      "answer" : "Hafnium",
+      "question" : "Which element is in group 4 and period 6 ?"
+    }, {
+      "answer" : "Tantalum",
+      "question" : "Which element is in group 5 and period 6 ?"
+    }, {
+      "answer" : "Tungsten",
+      "question" : "Which element is in group 6 and period 6 ?"
+    }, {
+      "answer" : "Rhenium",
+      "question" : "Which element is in group 7 and period 6 ?"
+    }, {
+      "answer" : "Osmium",
+      "question" : "Which element is in group 8 and period 6 ?"
+    }, {
+      "answer" : "Iridium",
+      "question" : "Which element is in group 9 and period 6 ?"
+    }, {
+      "answer" : "Platinum",
+      "question" : "Which element is in group 10 and period 6 ?"
+    }, {
+      "answer" : "Gold",
+      "question" : "Which element is in group 11 and period 6 ?"
+    }, {
+      "answer" : "Mercury",
+      "question" : "Which element is in group 12 and period 6 ?"
+    }, {
+      "answer" : "Thallium",
+      "question" : "Which element is in group 13 and period 6 ?"
+    }, {
+      "answer" : "Lead",
+      "question" : "Which element is in group 14 and period 6 ?"
+    }, {
+      "answer" : "Bismuth",
+      "question" : "Which element is in group 15 and period 6 ?"
+    }, {
+      "answer" : "Polonium",
+      "question" : "Which element is in group 16 and period 6 ?"
+    }, {
+      "answer" : "Astatine",
+      "question" : "Which element is in group 17 and period 6 ?"
+    }, {
+      "answer" : "Radon",
+      "question" : "Which element is in group 18 and period 6 ?"
+    }, {
+      "answer" : "Francium",
+      "question" : "Which element is in group 1 and period 7 ?"
+    }, {
+      "answer" : "Radium",
+      "question" : "Which element is in group 2 and period 7 ?"
+    }, {
+      "answer" : "Actinium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 89 ?"
+    }, {
+      "answer" : "Thorium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 90 ?"
+    }, {
+      "answer" : "Protactinium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 91 ?"
+    }, {
+      "answer" : "Uranium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 92 ?"
+    }, {
+      "answer" : "Neptunium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 93 ?"
+    }, {
+      "answer" : "Plutonium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 94 ?"
+    }, {
+      "answer" : "Americium",
+      "question" : "Which element is in group of Actinides , period 7 and atomic number 95 ?"
+    } ]
+  }, {
+    "category" : "atomicNumber",
+    "questions" : [ {
+      "answer" : "Hydrogen",
+      "question" : "Which element has an atomic number 1 ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "Which element has an atomic number 2 ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Which element has an atomic number 3 ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Which element has an atomic number 4 ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Which element has an atomic number 5 ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "Which element has an atomic number 6 ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "Which element has an atomic number 7 ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Which element has an atomic number 8 ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Which element has an atomic number 9 ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "Which element has an atomic number 10 ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Which element has an atomic number 11 ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Which element has an atomic number 12 ?"
+    }, {
+      "answer" : "Aluminium",
+      "question" : "Which element has an atomic number 13 ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Which element has an atomic number 14 ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Which element has an atomic number 15 ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Which element has an atomic number 16 ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "Which element has an atomic number 17 ?"
+    }, {
+      "answer" : "Argon",
+      "question" : "Which element has an atomic number 18 ?"
+    }, {
+      "answer" : "Potassium",
+      "question" : "Which element has an atomic number 19 ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Which element has an atomic number 20 ?"
+    }, {
+      "answer" : "Scandium",
+      "question" : "Which element has an atomic number 21 ?"
+    }, {
+      "answer" : "Titanium ",
+      "question" : "Which element has an atomic number 22 ?"
+    }, {
+      "answer" : "Vanadium",
+      "question" : "Which element has an atomic number 23 ?"
+    }, {
+      "answer" : "Chromium",
+      "question" : "Which element has an atomic number 24 ?"
+    }, {
+      "answer" : "Manganese",
+      "question" : "Which element has an atomic number 25 ?"
+    }, {
+      "answer" : "Iron",
+      "question" : "Which element has an atomic number 26 ?"
+    }, {
+      "answer" : "Cobalt",
+      "question" : "Which element has an atomic number 27 ?"
+    }, {
+      "answer" : "Nickel",
+      "question" : "Which element has an atomic number 28 ?"
+    }, {
+      "answer" : "Copper",
+      "question" : "Which element has an atomic number 29 ?"
+    }, {
+      "answer" : "Zinc",
+      "question" : "Which element has an atomic number 30 ?"
+    }, {
+      "answer" : "Gallium",
+      "question" : "Which element has an atomic number 31 ?"
+    }, {
+      "answer" : "Germanium",
+      "question" : "Which element has an atomic number 32 ?"
+    }, {
+      "answer" : "Arsenic",
+      "question" : "Which element has an atomic number 33 ?"
+    }, {
+      "answer" : "Selenium ",
+      "question" : "Which element has an atomic number 34 ?"
+    }, {
+      "answer" : "Bromine",
+      "question" : "Which element has an atomic number 35 ?"
+    }, {
+      "answer" : "Krypton",
+      "question" : "Which element has an atomic number 36 ?"
+    }, {
+      "answer" : "Rubidium",
+      "question" : "Which element has an atomic number 37 ?"
+    }, {
+      "answer" : "Strontium",
+      "question" : "Which element has an atomic number 38 ?"
+    }, {
+      "answer" : "Yttrium",
+      "question" : "Which element has an atomic number 39 ?"
+    }, {
+      "answer" : "Zirconium",
+      "question" : "Which element has an atomic number 40 ?"
+    }, {
+      "answer" : "Niobium",
+      "question" : "Which element has an atomic number 41 ?"
+    }, {
+      "answer" : "Molybdenum",
+      "question" : "Which element has an atomic number 42 ?"
+    }, {
+      "answer" : "Technetium",
+      "question" : "Which element has an atomic number 43 ?"
+    }, {
+      "answer" : "Ruthenium",
+      "question" : "Which element has an atomic number 44 ?"
+    }, {
+      "answer" : "Rhodium",
+      "question" : "Which element has an atomic number 45 ?"
+    }, {
+      "answer" : "Palladium",
+      "question" : "Which element has an atomic number 46 ?"
+    }, {
+      "answer" : "Silver",
+      "question" : "Which element has an atomic number 47 ?"
+    }, {
+      "answer" : "Cadmium",
+      "question" : "Which element has an atomic number 48 ?"
+    }, {
+      "answer" : "Indium",
+      "question" : "Which element has an atomic number 49 ?"
+    }, {
+      "answer" : "Tin",
+      "question" : "Which element has an atomic number 50 ?"
+    }, {
+      "answer" : "Antimony",
+      "question" : "Which element has an atomic number 51 ?"
+    }, {
+      "answer" : "Tellurium",
+      "question" : "Which element has an atomic number 52 ?"
+    }, {
+      "answer" : "Iodine",
+      "question" : "Which element has an atomic number 53 ?"
+    }, {
+      "answer" : "Xenon",
+      "question" : "Which element has an atomic number 54 ?"
+    }, {
+      "answer" : "Caesium",
+      "question" : "Which element has an atomic number 55 ?"
+    }, {
+      "answer" : "Barium",
+      "question" : "Which element has an atomic number 56 ?"
+    }, {
+      "answer" : "Lanthanum",
+      "question" : "Which element has an atomic number 57 ?"
+    }, {
+      "answer" : "Cerium",
+      "question" : "Which element has an atomic number 58 ?"
+    }, {
+      "answer" : "Praseodymium",
+      "question" : "Which element has an atomic number 59 ?"
+    }, {
+      "answer" : "Neodymium",
+      "question" : "Which element has an atomic number 60 ?"
+    }, {
+      "answer" : "Promethium",
+      "question" : "Which element has an atomic number 61 ?"
+    }, {
+      "answer" : "Samarium",
+      "question" : "Which element has an atomic number 62 ?"
+    }, {
+      "answer" : "Europium",
+      "question" : "Which element has an atomic number 63 ?"
+    }, {
+      "answer" : "Gadolinium",
+      "question" : "Which element has an atomic number 64 ?"
+    }, {
+      "answer" : "Terbium",
+      "question" : "Which element has an atomic number 65 ?"
+    }, {
+      "answer" : "Dysprosium",
+      "question" : "Which element has an atomic number 66 ?"
+    }, {
+      "answer" : "Holmium",
+      "question" : "Which element has an atomic number 67 ?"
+    }, {
+      "answer" : "Erbium",
+      "question" : "Which element has an atomic number 68 ?"
+    }, {
+      "answer" : "Thulium",
+      "question" : "Which element has an atomic number 69 ?"
+    }, {
+      "answer" : "Ytterbium",
+      "question" : "Which element has an atomic number 70 ?"
+    }, {
+      "answer" : "Lutetium",
+      "question" : "Which element has an atomic number 71 ?"
+    }, {
+      "answer" : "Hafnium",
+      "question" : "Which element has an atomic number 72 ?"
+    }, {
+      "answer" : "Tantalum",
+      "question" : "Which element has an atomic number 73 ?"
+    }, {
+      "answer" : "Tungsten",
+      "question" : "Which element has an atomic number 74 ?"
+    }, {
+      "answer" : "Rhenium",
+      "question" : "Which element has an atomic number 75 ?"
+    }, {
+      "answer" : "Osmium",
+      "question" : "Which element has an atomic number 76 ?"
+    }, {
+      "answer" : "Iridium",
+      "question" : "Which element has an atomic number 77 ?"
+    }, {
+      "answer" : "Platinum",
+      "question" : "Which element has an atomic number 78 ?"
+    }, {
+      "answer" : "Gold",
+      "question" : "Which element has an atomic number 79 ?"
+    }, {
+      "answer" : "Mercury",
+      "question" : "Which element has an atomic number 80 ?"
+    }, {
+      "answer" : "Thallium",
+      "question" : "Which element has an atomic number 81 ?"
+    }, {
+      "answer" : "Lead",
+      "question" : "Which element has an atomic number 82 ?"
+    }, {
+      "answer" : "Bismuth",
+      "question" : "Which element has an atomic number 83 ?"
+    }, {
+      "answer" : "Polonium",
+      "question" : "Which element has an atomic number 84 ?"
+    }, {
+      "answer" : "Astatine",
+      "question" : "Which element has an atomic number 85 ?"
+    }, {
+      "answer" : "Radon",
+      "question" : "Which element has an atomic number 86 ?"
+    }, {
+      "answer" : "Francium",
+      "question" : "Which element has an atomic number 87 ?"
+    }, {
+      "answer" : "Radium",
+      "question" : "Which element has an atomic number 88 ?"
+    }, {
+      "answer" : "Actinium",
+      "question" : "Which element has an atomic number 89 ?"
+    }, {
+      "answer" : "Thorium",
+      "question" : "Which element has an atomic number 90 ?"
+    }, {
+      "answer" : "Protactinium",
+      "question" : "Which element has an atomic number 91 ?"
+    }, {
+      "answer" : "Uranium",
+      "question" : "Which element has an atomic number 92 ?"
+    }, {
+      "answer" : "Neptunium",
+      "question" : "Which element has an atomic number 93 ?"
+    }, {
+      "answer" : "Plutonium",
+      "question" : "Which element has an atomic number 94 ?"
+    }, {
+      "answer" : "Americium",
+      "question" : "Which element has an atomic number 95 ?"
+    } ]
+  }, {
+    "category" : "elementCompound",
+    "questions" : [ {
+      "answer" : "Sulfur",
+      "question" : "A compound of iron (Fe) and ___ is ironsulfide (FeS) ?"
+    }, {
+      "answer" : "Bromine",
+      "question" : "A compound of potassium (K) and ___ is potassiumbromide (KBr) ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "A compound of sodium (Na) and ___ is sodiumchloride (NaCl) ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Acids produce ___ ions when dissolved in water ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "When naming acids, you can consider them to be combinations of anions connected to as many ___ ions as are necessary to create an electrically neutral compound ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "CO  (carbon monoxide) - There is one atom of ___ for every one atom of carbon ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "NO2 (nitrogen dioxide) - There are two atoms of oxygen for every one atom of ___ ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "SO3 (sulfur trioxide) - There are three atoms of ___ for every one atom of sulfur ?"
+    }, {
+      "answer" : "Silver",
+      "question" : "Formula of ___ bromide is AgBr ?"
+    }, {
+      "answer" : "Cobalt",
+      "question" : "Formula of ___ (III) oxide is Co2O3 ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Formula of ___ iodide is LiI ?"
+    }, {
+      "answer" : "Titanium",
+      "question" : "Formula of ___ (II) selenide is TiSe ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Formula of ___ flouride is CaF2 ?"
+    }, {
+      "answer" : "Vanadium",
+      "question" : "Formula of ___ sulfide is V2S5 ?"
+    }, {
+      "answer" : "Gallium",
+      "question" : "Formula of ___ chloride is GaCl3 ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Formula of ___ hydride is NaH ?"
+    }, {
+      "answer" : "Manganese",
+      "question" : "Formula of ___ (VII) arsenide is Mn3As7 ?"
+    }, {
+      "answer" : "Iron",
+      "question" : "Fe(NO3)3 is ___ (III) nitrate ?"
+    }, {
+      "answer" : "Lead",
+      "question" : "Pb(SO4)2 is ___ (IV) sulfate ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Be(HCO3)2 is beryllium ___ carbonate ?"
+    }, {
+      "answer" : "Manganese",
+      "question" : "Mn2(SO3)3 is ___ (III) sulfite ?"
+    }, {
+      "answer" : "Aluminum",
+      "question" : "Al(CN)3 is ___ cyanide ?"
+    }, {
+      "answer" : "Yttrium",
+      "question" : "YClO3 is ___ chlorate ?"
+    }, {
+      "answer" : "Strontium",
+      "question" : "Sr(C2H3O2)2 is ___ acetate ?"
+    }, {
+      "answer" : "Silver",
+      "question" : "Ag3PO4 is ___ phosphate ?"
+    }, {
+      "answer" : "Titanium",
+      "question" : "Ti(CN)4 is ___ cyanide ?"
+    }, {
+      "answer" : "Tin",
+      "question" : "Formula of ___ (II) nitrite is Sn(NO2)2 ?"
+    }, {
+      "answer" : "Chromium",
+      "question" : "Formula of ___ (III) hydroxide is Cr(OH)3 ?"
+    }, {
+      "answer" : "Cobalt",
+      "question" : "Formula of ___ (III) chromate is Co2(CrO4)3 ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "P2O5 is ___ oxide ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "NO2 is ___ dioxide ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Formula of ___ dioxide is SiO2 ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Formula of ___ hydroxide is Be(OH)2 ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Formula of ___ hydroxide is LiOH ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "NaOH is ___ hydroxide ?"
+    }, {
+      "answer" : "Gallium",
+      "question" : "GaAs is ___ arsenide ?"
+    }, {
+      "answer" : "Potassium",
+      "question" : "KCl is ___ chloride ?"
+    }, {
+      "answer" : "Cesium",
+      "question" : "Cs3N is ___ nitride ?"
+    } ]
+  }, {
+    "category" : "usesOfElement",
+    "questions" : [ {
+      "answer" : "Aluminium",
+      "question" : "Beverage cans; packaging foils; kitchen utensils; strong lightweight alloys; auto parts; mirror coating; baseball bats"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Light strong alloys in aircraft; rocket engine nozzles; telescope mirrors; fluorescent lamps; X-ray tube radiation windows"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Cleaning powder; dry wall and plaster of Paris; blackboard chalk; bricks and cement; ice removal; milk and cheese products; antacids"
+    }, {
+      "answer" : "Boron",
+      "question" : "Bleaches and laundry detergents; fiberglass insulation; neodymium magnets; nuclear reactor shielding; green-colored pyrotechnics"
+    }, {
+      "answer" : "Carbon",
+      "question" : "Dating of formerly-living things; charcoal; pencils; inks, paints; rubber products; lubrication; saw blade tips"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "Antiseptic; water purifying; swimming pool disinfectant; sewage and industrial waste sanitation; chemical weapons"
+    }, {
+      "answer" : "Copper",
+      "question" : "Electrical wires; switches; plumbing; heating; kettles; coinage; brass musical instruments"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Toothpaste and dental rinses; glass etching; infrared light lenses; Scotchgard; electrical insulation; Lipitor and Prozac"
+    }, {
+      "answer" : "Gold",
+      "question" : "Coins and monetary systems; bullion; hand-crafted jewelry, medallions; reflectors in medical lasers; solar radiation shield"
+    }, {
+      "answer" : "Helium",
+      "question" : "Cooling of superconducting magnets in MRI scanners; gas-leak detection; laser eye surgery; modern day airships; birthday balloons"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Fossil fuel processing; ammonia production for fertilizer; coolant in generators; bombs; early balloons and airships; antiseptic"
+    }, {
+      "answer" : "Iron",
+      "question" : "Cast and forged metalwork; alloyed steel; construction; machinery and tools; fences; benches; rail tracks; cooking skillets"
+    }, {
+      "answer" : "Lead",
+      "question" : "X-ray shielding; soundproofing; gasoline additives; solders; paints; seals, fishing weights, ceramic glaze; ammunition"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Heat-resistant glass and ceramics; lightweight alloys; lubricants and greases; batteries in portable devices"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Flashbulbs, pyrotechnics and white-light-producing flares; lightweight alloys; snowshoes; catchers' masks; antacids and laxatives"
+    }, {
+      "answer" : "Mercury",
+      "question" : "Thermometers; barometers; switches; diffusion pumps; vapor lamps; batteries; vermilion red pigment; mascara"
+    }, {
+      "answer" : "Neon",
+      "question" : "Fluorescent Lighting; advertising signs; high voltage indicators; gas lasers; lightning arrestors; television tubes"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "Ammonia; Fertilizer; cryogenic refrigerant for blood preservation; cyanide; poisons; explosives; 'laughing gas'"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Respiration; combustion; shielding the earth from ultraviolet radiation; iron ore smelting; scuba gear; life-support apparatus"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Safety matches & strikers; tracer bullets; smoke bombs; fertilizers; pesticides; fluorescent light bulbs; methamphetamine production"
+    }, {
+      "answer" : "Platinum",
+      "question" : "Catalytic converters; spark plugs; anti-corrosion protection; crucibles and laboratory equipment; jewelry"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Solid-state electronic devices; microchips; glass, ceramics; desiccants; lubricants; polishers; waterproofing; medical implants"
+    }, {
+      "answer" : "Silver",
+      "question" : "Coins and medals; jewelry; photography; mirrors; plating; cutlery, cell phone covers, electrical contacts and circuit boards; dental fillings"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Food flavoring and preservatives; desiccant; baking soda; soaps; rock salt; deicing; production of titanium; yellow light in street lamps"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Fertilizers; industrial chemical acid; gunpowder; rubber vulcanization; petroleum refining, metal mining; matches; winemaking"
+    }, {
+      "answer" : "Tin",
+      "question" : "Anti-corrosion protective coatings for metals; food cans; solder; window glass; bronze alloy; pewter; electroplating; organ pipes"
+    }, {
+      "answer" : "Titanium",
+      "question" : "Strong, lightweight alloys; jet engines and spacecraft; boat propeller shafts; white pigments; artificial hips; artificial gemstones"
+    } ]
+  }, {
+    "category" : "atomicWeight",
+    "questions" : [ {
+      "answer" : "Aluminium",
+      "question" : "Which element has an atomic weight of 26.982 ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Which element has an atomic weight of 9.0122 ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Which element has an atomic weight of 40.078 ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Which element has an atomic weight of 10.81 ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "Which element has an atomic weight of 12.011 ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "Which element has an atomic weight of 35.45 ?"
+    }, {
+      "answer" : "Copper",
+      "question" : "Which element has an atomic weight of 63.546 ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Which element has an atomic weight of 18.998 ?"
+    }, {
+      "answer" : "Gold",
+      "question" : "Which element has an atomic weight of 196.97 ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "Which element has an atomic weight of 4.0026 ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Which element has an atomic weight of 1.008 ?"
+    }, {
+      "answer" : "Iron",
+      "question" : "Which element has an atomic weight of 55.845 ?"
+    }, {
+      "answer" : "Lead",
+      "question" : "Which element has an atomic weight of 207.2 ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Which element has an atomic weight of 6.94 ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Which element has an atomic weight of 24.305 ?"
+    }, {
+      "answer" : "Mercury",
+      "question" : "Which element has an atomic weight of 200.59 ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "Which element has an atomic weight of 20.18 ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "Which element has an atomic weight of 14.007 ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Which element has an atomic weight of 15.999 ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Which element has an atomic weight of 30.974 ?"
+    }, {
+      "answer" : "Platinum",
+      "question" : "Which element has an atomic weight of 195.08 ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Which element has an atomic weight of 28.085 ?"
+    }, {
+      "answer" : "Silver",
+      "question" : "Which element has an atomic weight of 107.87 ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Which element has an atomic weight of 22.99 ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Which element has an atomic weight of 32.06 ?"
+    }, {
+      "answer" : "Tin",
+      "question" : "Which element has an atomic weight of 118.71 ?"
+    }, {
+      "answer" : "Titanium",
+      "question" : "Which element has an atomic weight of 47.867 ?"
+    } ]
+  }, {
+    "category" : "generalKnowledgeOfElement",
+    "questions" : [ {
+      "answer" : "Aluminium",
+      "question" : "The most abundant metal in the Earth's crust is ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Which element is used to focus and control the lasers used in eye surgery ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Which element is part of a compound called hydroxyapatite which is what makes our bones and teeth hard ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Which element was found by combining potassium and boric corrosive ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "Which element in radioactive form is used for determining the age of artifacts, relics, bones etc. of the past ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "A greenish yellow poisonous gas is ?"
+    }, {
+      "answer" : "Copper",
+      "question" : "The first metal used by man was ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Which element has the highest electron affinity ?"
+    }, {
+      "answer" : "Gold",
+      "question" : "The most malleable metal is ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "What element has a lower boiling point than hydrogen ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Which gas is given out when sodium reacts with water ?"
+    }, {
+      "answer" : "Iron",
+      "question" : "Although heavier elements exist in stars, the heaviest element that may be produced by fusion in a star is ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "The lightest metallic element floats on water. This element is ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Which element has an atomic weight of 24.305 ?"
+    }, {
+      "answer" : "Mercury",
+      "question" : "All alloys contain this element if they are amalga The element is ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "The element with the minimum atomic number having 8 electrons in the outer most shell is what ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "After carbon, hydrogen, and oxygen, the next most abundant element in proteins is ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "The most abundant element in the human body (by weight) is ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Which element is the sixth most abundant element in the human body (by mass). It is considered a major element ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Which element is is one of the best materials from which to make transistors and computer chips.It has an atomic number 14 ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Which metal has the density is less than that of water ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Which element on adding to natural rubber makes it less sticky in hot weather and less hard in cold weather ?"
+    }, {
+      "answer" : "Titanium",
+      "question" : "Which element is less dense than steel but is equally strong ?"
+    }, {
+      "answer" : "Argon",
+      "question" : "The most abundant rare gas in the atmosphere is ?"
+    }, {
+      "answer" : "Arsenic",
+      "question" : "Which element  is a known human carcinogen (cancer causing agent) ?"
+    }, {
+      "answer" : "Rubidium",
+      "question" : "Which element is used to make atomic clocks. An atomic clock is a device for keeping very exact time ?"
+    }, {
+      "answer" : "Caesium",
+      "question" : "Which element is the largest atomic radius on the periodic table ?"
+    }, {
+      "answer" : "Yttrium",
+      "question" : "Which element is main commercial use in phosphors (dots) on color TV tubes ?"
+    }, {
+      "answer" : "Uranium",
+      "question" : "In 1789, Martin Heinrick Klaproth named this element for a newly-discovered planet. Identify this element ?"
+    }, {
+      "answer" : "Radon",
+      "question" : "Which noble gas has the highest melting point ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "What is the most common element in the universe ?"
+    }, {
+      "answer" : "Scandium",
+      "question" : "Which element is the transition metal with the lowest atomic number ?"
+    }, {
+      "answer" : "Cobalt",
+      "question" : "Which element is used as a blue coloring agent in paints, inks, glass, ceramics, and even cosmetics ?"
+    }, {
+      "answer" : "Copper",
+      "question" : "Electrolytic refining is used to refine what ?"
+    }, {
+      "answer" : "Nickel",
+      "question" : "The metal that is used as a catalyst in the hydrogenation of oils is ?"
+    }, {
+      "answer" : "Zinc",
+      "question" : "Which element is associated with the term 'galvanized' ?"
+    }, {
+      "answer" : "Zinc",
+      "question" : "Which element has a role in health. It's an essential mineral that keeps the body's enzymes humming ?"
+    }, {
+      "answer" : "Selenium",
+      "question" : " Of the nonmetallic elements the one least likely to be found in organic compounds is ?"
+    }, {
+      "answer" : "Krypton",
+      "question" : " Which element is is a gas with no colour or smell ?"
+    }, {
+      "answer" : "Krypton",
+      "question" : " Which element is used commercially as a filling gas for energy-saving fluorescent lights ?"
+    }, {
+      "answer" : "Niobium",
+      "question" : " Which element is used in jewelry because it can form rainbows of color ?"
+    }, {
+      "answer" : "Zirconium",
+      "question" : " Which element is available in about 30 mineral species and its major source is Zircon ?"
+    }, {
+      "answer" : "Technetium",
+      "question" : "What was the first element to be produced artificially ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Which element is used to produce borosilicate glass ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Ozone is an allotrope of which chemical element ?"
+    }, {
+      "answer" : "Chromium",
+      "question" : "Which element is the only element which shows antiferromagnetic ordering in its solid state at and below room temperature ?"
+    }, {
+      "answer" : "Manganese",
+      "question" : "Which element is vital to human and animal life in metabolic functions ?"
+    }, {
+      "answer" : "Manganese",
+      "question" : "Which element is the first element in the seventh column of the periodic table ?"
+    }, {
+      "answer" : "Bromine",
+      "question" : "What halogen is a liquid at room temperature ?"
+    }, {
+      "answer" : "Bromine",
+      "question" : "Which element is a deep-red, oily liquid with a sharp smell and it is toxic ?"
+    }, {
+      "answer" : "Strontium",
+      "question" : "Which element is use in glass for color television cathode ray tubes (CRTs) where it is used to prevent X-ray emission ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "The metal that is usually extracted from sea water is ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Which element  is used in the Spitzer Space Telescope � due to its strength and light weight ?"
+    } ]
+  }, {
+    "category" : "basicFirst20ElementsSymbol",
+    "questions" : [ {
+      "answer" : "Aluminium",
+      "question" : "Aluminum's symbol is ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Name of this element: 'Be' ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Name of this element: 'Ca' ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Symbol for Boron ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "'C' stands for what element ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "Chlorine's symbol is ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "'Si' stands for what element ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Symbol for Fluorine ?"
+    }, {
+      "answer" : "Argon",
+      "question" : "Argon's symbol is ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "He stands for... ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Symbol for Hydrogen ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Name of this element: 'S' ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "'Na' is the symbol for ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Symbol for Lithium ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Magnesium's symbol is ?"
+    }, {
+      "answer" : "Potassium",
+      "question" : "Symbol for Potassium ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "Neon's symbol is ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "'N' stands for what element ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Oxygen's symbol is ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Phosphorus's symbol is ?"
+    } ]
+  }, {
+    "category" : "basicFirst20ElementsGeneralKnowledge",
+    "questions" : [ {
+      "answer" : "Aluminium",
+      "question" : "This element is a light metal which is resistant to corrosion. What is this element ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "This element is found in gemstones. What is this element ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "This element is a reactive metal. It is part of the compound which is found in bones, teeth and shells. What is this element ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "This element is found as a compound in borax and boric acid.  Heat resistant glass such as Pyrex contains borosilicate glass. What is this element ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "This element exists in many common forms or allotropes such as graphite and diamond. What is this element ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "This element is a light yellow gas. Compounds are used in household bleaches and to kill microbes in drinking water. What is this element ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "This element is a semi-metal or metalloid. It is used in the manufacture of chips. What is this element ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "This element is highly reactive gas that belongs to the halogen group. What is this element ?"
+    }, {
+      "answer" : "Argon",
+      "question" : "This element is a noble gas and is chemically unreactive. It is used incandescent light globes. What is this element ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "This element is a colorless unreactive gas belonging to the noble gas family. It is the second lightest element of the Periodic table and is commonly used in part balloons. What is this element ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "What element is in the sun 75% by weight ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "This element is yellow and is used to make sulfuric acid. What is this element ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "What metal is highly reactive and does not occur naturally ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "This element is an alkali metal and is found in group 1 of the Periodic table. It is used in batteries. What is this element ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "This element burns brightly as used used in flares. What is this element ?"
+    }, {
+      "answer" : "Potassium",
+      "question" : "This element is an extremely reactive metal. It is soft, easy to cut and reacts violently with water. What is this element ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "It is a unreactive gas that is used in signs.This signs are all made by hand and only use glass tubing. What is this element ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "This element is a colorless gas that makes up about 79% of the Earth's atmosphere. It is essential for plant growth. What is this element ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "This element is a colorless gas that makes up about 21% of the Earth's atmosphere. What is this element ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "This element is found on the sides matchboxes. What is this element ?"
+    } ]
+  }, {
+    "category" : "basicFirst20ElementsAtomicMass",
+    "questions" : [ {
+      "answer" : "Aluminium",
+      "question" : "Which element has a mass number of 26.98 and atomic number is 13 ?"
+    }, {
+      "answer" : "Beryllium",
+      "question" : "Which element has a mass number of 9 and atomic number is 4 ?"
+    }, {
+      "answer" : "Calcium",
+      "question" : "Which element has a mass number of 40.08 and atomic number is 20 ?"
+    }, {
+      "answer" : "Boron",
+      "question" : "Which element has a mass number of 10.18 and contains 5 protons ?"
+    }, {
+      "answer" : "Carbon",
+      "question" : "Which element has a mass number of 12 and contains 6 neutrons ?"
+    }, {
+      "answer" : "Chlorine",
+      "question" : "Which element has a mass number of 40.08 and atomic number is 20 ?"
+    }, {
+      "answer" : "Silicon",
+      "question" : "Which element has a mass number of 28.08 and atomic number is 14 ?"
+    }, {
+      "answer" : "Fluorine",
+      "question" : "Which element has a mass number of 18.99 and atomic number is 9 ?"
+    }, {
+      "answer" : "Argon",
+      "question" : "Which element has a mass number of 39.95 and atomic number is 18 ?"
+    }, {
+      "answer" : "Helium",
+      "question" : "Which element has a mass number of 4 and contains 2 neutrons ?"
+    }, {
+      "answer" : "Hydrogen",
+      "question" : "Which element has a mass number of 1 and contains 1 electrons ?"
+    }, {
+      "answer" : "Sulfur",
+      "question" : "Which element has a mass number of 32.06 and atomic number is 16 ?"
+    }, {
+      "answer" : "Sodium",
+      "question" : "Which element has a mass number of 22.98 and atomic number is 11 ?"
+    }, {
+      "answer" : "Lithium",
+      "question" : "Which element has a mass number of 6.94 and contains 4 neutrons ?"
+    }, {
+      "answer" : "Magnesium",
+      "question" : "Which element has a mass number of 24.30 and atomic number is 12 ?"
+    }, {
+      "answer" : "Potassium",
+      "question" : "Which element has a mass number of 39.098 and atomic number is 19 ?"
+    }, {
+      "answer" : "Neon",
+      "question" : "Which element has a mass number of 20.17 and atomic number is 10 ?"
+    }, {
+      "answer" : "Nitrogen",
+      "question" : "Which element has a mass number of 14 and atomic number is 7 ?"
+    }, {
+      "answer" : "Oxygen",
+      "question" : "Which element has a mass number of 16 and atomic number is 8 ?"
+    }, {
+      "answer" : "Phosphorus",
+      "question" : "Which element has a mass number of 30.97 and atomic number is 15 ?"
+    } ]
+  } ],
+  "elementsData" : [ null, {
+    "atomicNumber" : "1",
+    "boilingPoint" : "-252.87 C",
+    "density" : "0.0899 g/l",
+    "elementCategory" : "Nonmetals",
+    "group" : "1",
+    "meltingPoint" : "-259.14 C",
+    "name" : "Hydrogen",
+    "period" : "1",
+    "phase" : "Gas",
+    "shortDetails" : "By weight, 75% of the visible universe is hydrogen, a colorless gas. In space, vast quantities interact with starlight to create spectacular sights such as the Eagle Nebula (seen by the Hubble Space Telescope).",
+    "symbol" : "H",
+    "weight" : "1.008"
+  }, {
+    "atomicNumber" : "2",
+    "boilingPoint" : "-268.93 C",
+    "density" : "0.1785 g/l",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "N/A",
+    "name" : "Helium",
+    "period" : "1",
+    "phase" : "Gas",
+    "shortDetails" : "Ordinarily a colorless, inert gas, helium glows pale peach when an electric current runs through it. A glass blower bent a tube to the shape of the letters He and filled it with pure helium.",
+    "symbol" : "He",
+    "weight" : "4.0026"
+  }, {
+    "atomicNumber" : "3",
+    "boilingPoint" : "1342 C",
+    "density" : "0.535 g/cm3",
+    "elementCategory" : "Alkali Metals",
+    "group" : "1",
+    "meltingPoint" : "180.54 C",
+    "name" : "Lithium",
+    "period" : "2",
+    "phase" : "Solid",
+    "shortDetails" : "The lightest metal, lithium easily floats on water, which it reacts with, skittering around releasing hydrogen gas. It's soft enough to cut with hand shears, leaving marks.",
+    "symbol" : "Li",
+    "weight" : "6.94"
+  }, {
+    "atomicNumber" : "4",
+    "boilingPoint" : "2470 C",
+    "density" : "1.848 g/cm3",
+    "elementCategory" : "Alkali Earth Metals",
+    "group" : "2",
+    "meltingPoint" : "1287 C",
+    "name" : "Beryllium",
+    "period" : "2",
+    "phase" : "Solid",
+    "shortDetails" : "The pure broken crystal of refined beryllium ordinarily would be melted down and turned into strong, lightweight parts for missiles and spacecraft. It is expensive and toxic, but unbeatable when cost is no object.",
+    "symbol" : "Be",
+    "weight" : "9.0122"
+  }, {
+    "atomicNumber" : "5",
+    "boilingPoint" : "4000 C",
+    "density" : "2.46 g/cm3",
+    "elementCategory" : "Metalloids",
+    "group" : "13",
+    "meltingPoint" : "2075 C",
+    "name" : "Boron",
+    "period" : "2",
+    "phase" : "Solid",
+    "shortDetails" : "Boron is found in the common mineral borax, but is rarely seen in pure form, as in these polycrystalline lumps. While extremely hard, boron is too brittle in pure form to have any practical applications.",
+    "symbol" : "B",
+    "weight" : "10.81"
+  }, {
+    "atomicNumber" : "6",
+    "boilingPoint" : "4027 C",
+    "density" : "2.26 g/cm3",
+    "elementCategory" : "Nonmetals",
+    "group" : "14",
+    "meltingPoint" : "3550 C",
+    "name" : "Carbon",
+    "period" : "2",
+    "phase" : "Solid",
+    "shortDetails" : "A diamond is forever, unless you heat it too much and it burns up into carbon dioxide gas. Graphite is also pure carbon and widely used in pencils, but not nearly as pretty.",
+    "symbol" : "C",
+    "weight" : "12.011"
+  }, {
+    "atomicNumber" : "7",
+    "boilingPoint" : "-195.79 C",
+    "density" : "1.251 g/l",
+    "elementCategory" : "Nonmetals",
+    "group" : "15",
+    "meltingPoint" : "-210.1 C",
+    "name" : "Nitrogen",
+    "period" : "2",
+    "phase" : "Gas",
+    "shortDetails" : "Colorless nitrogen gas makes up 78% of the atmosphere, but here we see it in liquid form at -196DegreeC. It is boiling off, creating a visible vapor--not of steam, but of water condensed from the surrounding air.",
+    "symbol" : "N",
+    "weight" : "14.007"
+  }, {
+    "atomicNumber" : "8",
+    "boilingPoint" : "-182.9 C",
+    "density" : "1.429 g/l",
+    "elementCategory" : "Nonmetals",
+    "group" : "16",
+    "meltingPoint" : "-218.3 C",
+    "name" : "Oxygen",
+    "period" : "2",
+    "phase" : "Gas",
+    "shortDetails" : "At -183.0DegreeC oxygen is a beautiful pale blue liquid, but at room temperature it is a colorless gas. It's only 21% of the atmosphere--the 21% we all need if we want to live more than a few minutes longer.",
+    "symbol" : "O",
+    "weight" : "15.999"
+  }, {
+    "atomicNumber" : "9",
+    "boilingPoint" : "-188.12 C",
+    "density" : "1.696 g/l",
+    "elementCategory" : "Halogens",
+    "group" : "17",
+    "meltingPoint" : "-219.6 C",
+    "name" : "Fluorine",
+    "period" : "2",
+    "phase" : "Gas",
+    "shortDetails" : "Fluorine is a pale yellow gas that reacts violently with virtually everything, including glass",
+    "symbol" : "F",
+    "weight" : "18.998"
+  }, {
+    "atomicNumber" : "10",
+    "boilingPoint" : "-246.08 C",
+    "density" : "0.9 g/l",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "-248.59 C",
+    "name" : "Neon",
+    "period" : "2",
+    "phase" : "Gas",
+    "shortDetails" : "Neon signs really are made with neon. A high voltage transformer sends an electric current through the tube, creating a characteristic bright neon-red arc.",
+    "symbol" : "Ne",
+    "weight" : "20.18"
+  }, {
+    "atomicNumber" : "11",
+    "boilingPoint" : "883 C",
+    "density" : "0.968 g/cm3",
+    "elementCategory" : "Alkali Metals",
+    "group" : "1",
+    "meltingPoint" : "97.72 C",
+    "name" : "Sodium",
+    "period" : "3",
+    "phase" : "Solid",
+    "shortDetails" : "These soft, silvery sodium chunks were cut with a knife and stored under oil. In air they turn white in seconds; exposed to water they generate hydrogen gas and explode in flaming balls of molten sodium.",
+    "symbol" : "Na",
+    "weight" : "22.99"
+  }, {
+    "atomicNumber" : "12",
+    "boilingPoint" : "1090 C",
+    "density" : "1.738 g/cm3",
+    "elementCategory" : "Alkali Earth Metals",
+    "group" : "2",
+    "meltingPoint" : "650 C",
+    "name" : "Magnesium",
+    "period" : "3",
+    "phase" : "Solid",
+    "shortDetails" : "These magnesium nodules grow during the refining process. Usually they are melted down into useful products such as lightweight race car components and fire starters. Thin strips light easily and burn brightly.",
+    "symbol" : "Mg",
+    "weight" : "24.305"
+  }, {
+    "atomicNumber" : "13",
+    "boilingPoint" : "2519 C",
+    "density" : "2.7 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "13",
+    "meltingPoint" : "660.32 C",
+    "name" : "Aluminium",
+    "period" : "3",
+    "phase" : "Solid",
+    "shortDetails" : "It is lightweight noncorroding metal. It is used to make kitchenware, cans, foil, machinery, cars, planes, bicycles, feldspar, granite, clay, ceramics, corundum, gemstones.These nodules were created by pouring molten aluminum into a bucket of water.",
+    "symbol" : "Al",
+    "weight" : "26.982"
+  }, {
+    "atomicNumber" : "14",
+    "boilingPoint" : "2900 C",
+    "density" : "2.33 g/cm3",
+    "elementCategory" : "Metalloids",
+    "group" : "14",
+    "meltingPoint" : "1414 C",
+    "name" : "Silicon",
+    "period" : "3",
+    "phase" : "Solid",
+    "shortDetails" : "The first stage of silicon refining produces this irregular blob. After additional purification the silicon is grown into large single crystals to be cut into wafers, after which computer chips are etched onto the surface.",
+    "symbol" : "Si",
+    "weight" : "28.085"
+  }, {
+    "atomicNumber" : "15",
+    "boilingPoint" : "280.5 C",
+    "density" : "1.823 g/cm3",
+    "elementCategory" : "Nonmetals",
+    "group" : "15",
+    "meltingPoint" : "44.2 C",
+    "name" : "Phosphorus",
+    "period" : "3",
+    "phase" : "Solid",
+    "shortDetails" : "Phosphorus occurs in white (extremely dangerous), red (safer and common in matches) and black (rare, most stable) forms. This exotic violet form is a mixture of red and black, not a true allotrope itself. ",
+    "symbol" : "P",
+    "weight" : "30.974"
+  }, {
+    "atomicNumber" : "16",
+    "boilingPoint" : "444.72 C",
+    "density" : "1.96 g/cm3",
+    "elementCategory" : "Nonmetals",
+    "group" : "16",
+    "meltingPoint" : "115.21 C",
+    "name" : "Sulfur",
+    "period" : "3",
+    "phase" : "Solid",
+    "shortDetails" : "Sulfur is one of the few elements found pure in nature. This 'native' sulfur is probably of volcanic origin. Also called brimstone, it oxidizes and is responsible for the characteristic smell of many volcanoes.",
+    "symbol" : "S",
+    "weight" : "32.06"
+  }, {
+    "atomicNumber" : "17",
+    "boilingPoint" : "-34.04 C",
+    "density" : "3.214 g/l",
+    "elementCategory" : "Halogens",
+    "group" : "17",
+    "meltingPoint" : "-101.5 C",
+    "name" : "Chlorine",
+    "period" : "3",
+    "phase" : "Gas",
+    "shortDetails" : "A pale yellow-green gas, chlorine killed soldiers in WWI. Today it mainly purifies drinking water and swimming pools. Combined with sodium, chlorine makes common table salt and is thus essential to life.",
+    "symbol" : "Cl",
+    "weight" : "35.45"
+  }, {
+    "atomicNumber" : "18",
+    "boilingPoint" : "-185.8 C",
+    "density" : "1.784 g/l",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "-189.3 C",
+    "name" : "Argon",
+    "period" : "3",
+    "phase" : "Gas",
+    "shortDetails" : "A noble gas, argon is inert and colorless until an electric current excites it to a rich sky-blue glow. As one of the least expensive noble gases, dense argon is often used as a shield gas to protect against oxidation.",
+    "symbol" : "Ar",
+    "weight" : "39.948"
+  }, {
+    "atomicNumber" : "19",
+    "boilingPoint" : "759 C",
+    "density" : "0.856 g/cm3",
+    "elementCategory" : "Alkali Metals",
+    "group" : "1",
+    "meltingPoint" : "63.38 C",
+    "name" : "Potassium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "The purple tint on these soft potassium cubes is a very thin oxide coating. Exposed to air they turn black in seconds. Exposed to water they would explode, sending off characteristic purple-red flaming drops.",
+    "symbol" : "K",
+    "weight" : "39.098"
+  }, {
+    "atomicNumber" : "20",
+    "boilingPoint" : "1484 C",
+    "density" : "1.55 g/cm3",
+    "elementCategory" : "Alkali Earth Metals",
+    "group" : "2",
+    "meltingPoint" : "842 C",
+    "name" : "Calcium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Say calcium and most people think of chalk and bones, but in pure form it is a firm, silvery metal that reacts slowly with water to give off hydrogen gas. Pure metallic calcium has few applications and is rarely seen.",
+    "symbol" : "Ca",
+    "weight" : "40.078"
+  }, {
+    "atomicNumber" : "21",
+    "boilingPoint" : "2830 C",
+    "density" : "2.985 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "3",
+    "meltingPoint" : "1541 C",
+    "name" : "Scandium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "These vacuum distilled scandium crystals are destined for use in daylight spectrum metal halide arc lights. A few percent of scandium strengthens aluminum for bicycle frames and baseball bats.",
+    "symbol" : "Sc",
+    "weight" : "44.956"
+  }, {
+    "atomicNumber" : "22",
+    "boilingPoint" : "3287 C",
+    "density" : "4.507 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "4",
+    "meltingPoint" : "1668 C",
+    "name" : "Titanium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "This titanium blisk (bladed impeller disk) is from the intake stage of a jet engine, where the light weight and high strength of titanium are key. Titanium is expensive because it must be cast under inert atmosphere.",
+    "symbol" : "Ti",
+    "weight" : "47.867"
+  }, {
+    "atomicNumber" : "23",
+    "boilingPoint" : "3407 C",
+    "density" : "6.11 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "5",
+    "meltingPoint" : "1910 C",
+    "name" : "Vanadium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "A few percent of vanadium in steel creates hard, tough alloys, but the pure metal has few applications. Traces of it give emerald a green color.",
+    "symbol" : "V",
+    "weight" : "50.942"
+  }, {
+    "atomicNumber" : "24",
+    "boilingPoint" : "2671 C",
+    "density" : "7.19 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "6",
+    "meltingPoint" : "1907 C",
+    "name" : "Chromium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Many shiny things are chrome-plated; these chips show the result if you keep plating until a thick slab is built up. This process, called electrowinning, is how high-purity chromium is obtained from solution.",
+    "symbol" : "Cr",
+    "weight" : "51.996"
+  }, {
+    "atomicNumber" : "25",
+    "boilingPoint" : "2061 C",
+    "density" : "7.47 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "7",
+    "meltingPoint" : "1246 C",
+    "name" : "Manganese",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "These rough slabs are created by electroplating manganese out of a solution until enough metal builds up to break off. The bumpy surface occurs naturally as the current finds the path of least resistance.",
+    "symbol" : "Mn",
+    "weight" : "54.938"
+  }, {
+    "atomicNumber" : "26",
+    "boilingPoint" : "2861 C",
+    "density" : "7.874 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "8",
+    "meltingPoint" : "1538 C",
+    "name" : "Iron",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "The meteorite, part of one that fell in Xiquipilco, Mexico in ancient times, is made mostly of iron. Locals created iron tools from it for generations before the first samples made their way out in the 1700s.",
+    "symbol" : "Fe",
+    "weight" : "55.845"
+  }, {
+    "atomicNumber" : "27",
+    "boilingPoint" : "2927 C",
+    "density" : "8.9 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "9",
+    "meltingPoint" : "1495 C",
+    "name" : "Cobalt",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Cobalt is used in pigments, notably cobalt blue, and in high-strength, high-temperature steel alloys. High purity cobalt is obtained by electrolyzing cobalt ions out of solution.",
+    "symbol" : "Co",
+    "weight" : "58.933"
+  }, {
+    "atomicNumber" : "28",
+    "boilingPoint" : "2913 C",
+    "density" : "8.908 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "10",
+    "meltingPoint" : "1455 C",
+    "name" : "Nickel",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Created by electrowinning, are the main form in which pure nickel is sold commercially. A typical use is in electroplating baths, where they are slowly dissolved and redeposited on products.",
+    "symbol" : "Ni",
+    "weight" : "58.693"
+  }, {
+    "atomicNumber" : "29",
+    "boilingPoint" : "2562 C",
+    "density" : "8.96 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "11",
+    "meltingPoint" : "1084.62 C",
+    "name" : "Copper",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Copper is incredibly useful in industry for wiring, heat sinks and coins, and in brass and bronze alloys. But this sample is completely useless; it's simply a pretty hand-hammered ball, pleasant to hold and behold.",
+    "symbol" : "Cu",
+    "weight" : "63.546"
+  }, {
+    "atomicNumber" : "30",
+    "boilingPoint" : "907 C",
+    "density" : "7.14 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "12",
+    "meltingPoint" : "419.53 C",
+    "name" : "Zinc",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Sacrificial zinc anodes are used to protect steel tanks, rails and ship hulls from rusting. Since zinc oxidizes more easily than iron, it corrodes first. When the anode is mostly consumed, it can simply be replaced.",
+    "symbol" : "Zn",
+    "weight" : "65.38"
+  }, {
+    "atomicNumber" : "31",
+    "boilingPoint" : "2204 C",
+    "density" : "5.904 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "13",
+    "meltingPoint" : "29.76 C",
+    "name" : "Gallium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Pick up gallium and it will melt in your hand: it liquefies at slightly above room temperature. Alloys of gallium, indium and tin are replacing mercury in thermometers.",
+    "symbol" : "Ga",
+    "weight" : "69.723"
+  }, {
+    "atomicNumber" : "32",
+    "boilingPoint" : "2820 C",
+    "density" : "5.323 g/cm3",
+    "elementCategory" : "Metalloids",
+    "group" : "14",
+    "meltingPoint" : "938.3 C",
+    "name" : "Germanium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Bulk commercial germanium is sold in ingot bars: This is the broken end of one, showing its internal crystal structure. Germanium is used in light emitting diodes and semiconductors, just like silicon above it.",
+    "symbol" : "Ge",
+    "weight" : "72.63"
+  }, {
+    "atomicNumber" : "33",
+    "boilingPoint" : "614 C",
+    "density" : "5.727 g/cm3",
+    "elementCategory" : "Metalloids",
+    "group" : "15",
+    "meltingPoint" : "817 C",
+    "name" : "Arsenic",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Arsenic was the poison of choice until its detection became easy. Combined with gallium it forms a semiconductor used in creating high-speed integrated circuits for supercomputers and cell phones.",
+    "symbol" : "As",
+    "weight" : "74.922"
+  }, {
+    "atomicNumber" : "34",
+    "boilingPoint" : "685 C",
+    "density" : "4.819 g/cm3",
+    "elementCategory" : "Nonmetals",
+    "group" : "16",
+    "meltingPoint" : "221 C",
+    "name" : "Selenium",
+    "period" : "4",
+    "phase" : "Solid",
+    "shortDetails" : "Selenium occurs in (fairly) pure form in nature. This native selenium is exactly as it came out of the ground. It is used in many light-sensing applications: photocopiers, automatic light switches and light meters.",
+    "symbol" : "Se",
+    "weight" : "78.971"
+  }, {
+    "atomicNumber" : "35",
+    "boilingPoint" : "59 C",
+    "density" : "3.12 g/cm3",
+    "elementCategory" : "Halogens",
+    "group" : "17",
+    "meltingPoint" : "-7.3 C",
+    "name" : "Bromine",
+    "period" : "4",
+    "phase" : "Liquid",
+    "shortDetails" : "Bromine is liquid at room temperature but evaporates very rapidly into a purple-brown, choking gas that smells rather like chlorine. Sodium bromide, the bromine analog of table salt, is often used in hot tubs.",
+    "symbol" : "Br",
+    "weight" : "79.904"
+  }, {
+    "atomicNumber" : "36",
+    "boilingPoint" : "-153.22 C",
+    "density" : "3.75 g/cm3",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "-157.36 C",
+    "name" : "Krypton",
+    "period" : "4",
+    "phase" : "Gas",
+    "shortDetails" : "Krypton is inert but glows a lovely pale mauve color when excited with a high voltage electric current. Expensive incandescent bulbs use krypton as a filler gas due to its high thermal conductivity.",
+    "symbol" : "Kr",
+    "weight" : "83.798"
+  }, {
+    "atomicNumber" : "37",
+    "boilingPoint" : "688 C",
+    "density" : "1.532 g/cm3",
+    "elementCategory" : "Alkali Metals",
+    "group" : "1",
+    "meltingPoint" : "39.31 C",
+    "name" : "Rubidium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "This ampoule contains a gram of highly reactive rubidium metal. Broken open it would catch fire rapidly. Rubidium is commonly used in cheaper atomic clocks (the most accurate ones use cesium).",
+    "symbol" : "Rb",
+    "weight" : "85.468"
+  }, {
+    "atomicNumber" : "38",
+    "boilingPoint" : "1382 C",
+    "density" : "2.63 g/cm3",
+    "elementCategory" : "Alkali Earth Metals",
+    "group" : "2",
+    "meltingPoint" : "777 C",
+    "name" : "Strontium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Strontium is often thought of as radioactive, because Sr-90 is a component of nuclear fallout. In fact normal strontium is not radioactive and is used in household products such as safe glow-in-the-dark paint.",
+    "symbol" : "Sr",
+    "weight" : "87.62"
+  }, {
+    "atomicNumber" : "39",
+    "boilingPoint" : "3345 C",
+    "density" : "4.472 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "3",
+    "meltingPoint" : "1526 C",
+    "name" : "Yttrium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Yttrium is rarely seen in pure form and has no applications as a metal. Yttrium-aluminum-garnet (YAG) is important in lasers and yttrium is also used in the phosphors of color television sets (the old CRT kind).",
+    "symbol" : "Y",
+    "weight" : "88.906"
+  }, {
+    "atomicNumber" : "40",
+    "boilingPoint" : "4409 C",
+    "density" : "6.511 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "4",
+    "meltingPoint" : "1855 C",
+    "name" : "Zirconium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "This spectacular crystal bar of pure zirconium was created by thermal decomposition of zirconium iodide. Important in the nuclear industry, zirconium's latest application is in body-piercing jewelry.",
+    "symbol" : "Zr",
+    "weight" : "91.224"
+  }, {
+    "atomicNumber" : "41",
+    "boilingPoint" : "4744 C",
+    "density" : "8.57 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "5",
+    "meltingPoint" : "2477 C",
+    "name" : "Niobium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "It is used in earrings and tongue studs because it can be colored by oxidation. such as the high purity niobium crystal ribbon from Russia. New methods have made this form obsolete, and most was melted down.",
+    "symbol" : "Nb",
+    "weight" : "92.906"
+  }, {
+    "atomicNumber" : "42",
+    "boilingPoint" : "4639 C",
+    "density" : "10.28 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "6",
+    "meltingPoint" : "2623 C",
+    "name" : "Molybdenum",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Pure molybdenum is used in specialized high temperature applications because it maintains its strength better than molybdenum steel, a common high-strength alloy. Large pure bars like this are unusual.",
+    "symbol" : "Mo",
+    "weight" : "95.95"
+  }, {
+    "atomicNumber" : "43",
+    "boilingPoint" : "4265 C",
+    "density" : "11.5 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "7",
+    "meltingPoint" : "2157 C",
+    "name" : "Technetium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Technetium is a radioactive element, the only one in this area of the periodic table. Short-lived isotopes are used in gamma ray imaging of the skeleton since it attaches itself to areas of active bone growth.",
+    "symbol" : "Tc",
+    "weight" : "98"
+  }, {
+    "atomicNumber" : "44",
+    "boilingPoint" : "4150 C",
+    "density" : "12.37 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "8",
+    "meltingPoint" : "2334 C",
+    "name" : "Ruthenium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "The button of pure solid ruthenium was created by the easiest known method--melting ruthenium powder in an argon-arc furnace. Jewelry is often ruthenium-plated when a dark, pewter-colored shine is desired.",
+    "symbol" : "Ru",
+    "weight" : "101.07"
+  }, {
+    "atomicNumber" : "45",
+    "boilingPoint" : "3695 C",
+    "density" : "12.45 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "9",
+    "meltingPoint" : "1964 C",
+    "name" : "Rhodium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Rhodium is very expensive, yet cheap jewelry is often rhodium-plated because so little is needed to make an opaque, super-shiny coating. Solid rhodium jewelry is never seen: it would be impossibly costly.",
+    "symbol" : "Rh",
+    "weight" : "102.91"
+  }, {
+    "atomicNumber" : "46",
+    "boilingPoint" : "2963 C",
+    "density" : "12.023 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "10",
+    "meltingPoint" : "1554.9 C",
+    "name" : "Palladium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Palladium is far more expensive than silver, yet it is sometimes used to imitate silver in outdoor situations because it does not tarnish. Side by side with silver, palladium is distinctly yellower and darker.",
+    "symbol" : "Pd",
+    "weight" : "106.42"
+  }, {
+    "atomicNumber" : "47",
+    "boilingPoint" : "2162 C",
+    "density" : "10.49 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "11",
+    "meltingPoint" : "961.78 C",
+    "name" : "Silver",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Silver has been used in coins since antiquity: This tetradrachm is from Greece, 261BC and is about 95% pure. In 0 AD this coin was older than the United States is today. Was it in someone's collection then?",
+    "symbol" : "Ag",
+    "weight" : "107.87"
+  }, {
+    "atomicNumber" : "48",
+    "boilingPoint" : "767 C",
+    "density" : "8.65 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "12",
+    "meltingPoint" : "321.07 C",
+    "name" : "Cadmium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "It is non-corroding soft metal, toxic; electroplated steel, nicad batteries, red and yellow paints. It is used for fire sprinklers",
+    "symbol" : "Cd",
+    "weight" : "112.41"
+  }, {
+    "atomicNumber" : "49",
+    "boilingPoint" : "2072 C",
+    "density" : "7.31 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "13",
+    "meltingPoint" : "156.6 C",
+    "name" : "Indium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "The commercial unit of trade for indium is the one-kilogram bar, which is a lot of indium. Its major uses are in low-melting-point alloys that replace mercury in thermometers, and in flat screen televisions.",
+    "symbol" : "In",
+    "weight" : "114.82"
+  }, {
+    "atomicNumber" : "50",
+    "boilingPoint" : "2602 C",
+    "density" : "7.31 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "14",
+    "meltingPoint" : "231.93 C",
+    "name" : "Tin",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "The classic tin soldier was sometimes made of pure tin, but more often tin-lead or lead-antimony alloys, or, shudder, just plastic.",
+    "symbol" : "Sn",
+    "weight" : "118.71"
+  }, {
+    "atomicNumber" : "51",
+    "boilingPoint" : "1587 C",
+    "density" : "6.697 g/cm3",
+    "elementCategory" : "Metalloids",
+    "group" : "15",
+    "meltingPoint" : "630.63 C",
+    "name" : "Antimony",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Beautiful, sparkling lumps of broken crystal like this are how bulk antimony is commonly sold. Most of it is melted down and added to lead to make bullets and batteries or alloyed with other metals.",
+    "symbol" : "Sb",
+    "weight" : "121.76"
+  }, {
+    "atomicNumber" : "52",
+    "boilingPoint" : "988 C",
+    "density" : "6.24 g/cm3",
+    "elementCategory" : "Metalloids",
+    "group" : "16",
+    "meltingPoint" : "449.51 C",
+    "name" : "Tellurium",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Tellurium is hardly ever used in pure form, but these beautiful slender crystals are how it is distributed. Research is hindered by the fact that if you absorb even tiny amounts, you smell of garlic for months.",
+    "symbol" : "Te",
+    "weight" : "127.6"
+  }, {
+    "atomicNumber" : "53",
+    "boilingPoint" : "184.3 C",
+    "density" : "4.94 g/cm3",
+    "elementCategory" : "Halogens",
+    "group" : "17",
+    "meltingPoint" : "113.7 C",
+    "name" : "Iodine",
+    "period" : "5",
+    "phase" : "Solid",
+    "shortDetails" : "Iodine sublimates into a beautiful violet vapor when heated: There's a torch under the plate in this photo. Iodine and iodine solutions were used as disinfectants before better antiseptic agents were found.",
+    "symbol" : "I",
+    "weight" : "126.9"
+  }, {
+    "atomicNumber" : "54",
+    "boilingPoint" : "-108 C",
+    "density" : "5.9 g/l",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "-111.8 C",
+    "name" : "Xenon",
+    "period" : "5",
+    "phase" : "Gas",
+    "shortDetails" : "The xenon gas is being excited by a high voltage discharge, creating a lovely pale violet glow. Xenon-filled tubes driven by high voltage capacitors are the basis for modern photographic flashes.",
+    "symbol" : "Xe",
+    "weight" : "131.29"
+  }, {
+    "atomicNumber" : "55",
+    "boilingPoint" : "671 C",
+    "density" : "1.879 g/cm3",
+    "elementCategory" : "Alkali Metals",
+    "group" : "1",
+    "meltingPoint" : "28.44 C",
+    "name" : "Cesium",
+    "period" : "6",
+    "phase" : "Gas",
+    "shortDetails" : "The cesium in this ampoule melts if you hold it in your hand for a minute, yielding the prettiest liquid gold. If the ampoule were to break in your hand, the resulting explosion would be extremely unpleasant.",
+    "symbol" : "Cs",
+    "weight" : "132.91"
+  }, {
+    "atomicNumber" : "56",
+    "boilingPoint" : "1870 C",
+    "density" : "3.51 g/cm3",
+    "elementCategory" : "Alkali Earth Metals",
+    "group" : "2",
+    "meltingPoint" : "727 C",
+    "name" : "Barium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Barium makes many people think of enemas, unfortunately. They're recalling barium sulfate, an excellent x-ray contrast medium. Barium in pure form is a metal, used as a 'getter' in high-vacuum components.",
+    "symbol" : "Ba",
+    "weight" : "137.33"
+  }, {
+    "atomicNumber" : "57",
+    "boilingPoint" : "3464 C",
+    "density" : "6.146 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "919 C",
+    "name" : "Lanthanum",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Mixed with other rare earths lanthanum is used in flints for lighters. Lanthanum compounds are used in electron microscopy to resolve individual atoms and in movie lighting to illuminate vast areas.",
+    "symbol" : "La",
+    "weight" : "138.91"
+  }, {
+    "atomicNumber" : "58",
+    "boilingPoint" : "3360 C",
+    "density" : "6.689 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "798 C",
+    "name" : "Cerium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Cerium is one of the least expensive rare earths and is the major component of 'mischmetal', used in lighter flints because it catches fire easily when struck. Larger blocks are used for sparking special effects.",
+    "symbol" : "Ce",
+    "weight" : "140.12"
+  }, {
+    "atomicNumber" : "59",
+    "boilingPoint" : "3290 C",
+    "density" : "6.64 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "931 C",
+    "name" : "Praseodymium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Metallic praseodymium like this is not much used, but when mixed into glass it provides a precise blue color that filters out the yellow glow of molten glass, allowing glassblowers to see their work clearly.",
+    "symbol" : "Pr",
+    "weight" : "140.91"
+  }, {
+    "atomicNumber" : "60",
+    "boilingPoint" : "3100 C",
+    "density" : "7.01 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1021 C",
+    "name" : "Neodymium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Neodymium-iron-boron alloys are the basis for the most powerful permanent magnets, used in headphones, disk drives, and motors, and commonly known as neodymium magnets or rare earth magnets.",
+    "symbol" : "Nd",
+    "weight" : "144.24"
+  }, {
+    "atomicNumber" : "61",
+    "boilingPoint" : "3000 C",
+    "density" : "7.264 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1100 C",
+    "name" : "Promethium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Naturally radioactive promethium was briefly used as a replacement for radium in self-luminous paint, before tritium took over. This button was produced using left-over stock kept for making diving watches.",
+    "symbol" : "Pm",
+    "weight" : "145"
+  }, {
+    "atomicNumber" : "62",
+    "boilingPoint" : "1803 C",
+    "density" : "7.353 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1072 C",
+    "name" : "Samarium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Samarium-cobalt magnets made possible the first lightweight head-phones, but have been replaced by neodymium-iron-boron magnets, which are even stronger. The metal in pure form has few applications.",
+    "symbol" : "Sm",
+    "weight" : "150.36"
+  }, {
+    "atomicNumber" : "63",
+    "boilingPoint" : "1527 C",
+    "density" : "5.244 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "822 C",
+    "name" : "Europium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Europium compounds are widely used in phosphors for cathode ray TV screens and in compact fluorescent bulbs. Pure crystals like this are useful only as a source of europium to be turned into compounds.",
+    "symbol" : "Eu",
+    "weight" : "151.96"
+  }, {
+    "atomicNumber" : "64",
+    "boilingPoint" : "3250 C",
+    "density" : "7.901 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1313 C",
+    "name" : "Gadolinium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Gadolinium compounds (not metal like this) are injected into patients receiving MRI scans to improve contrast. Several isotopes are also mixed with uranium fuel in nuclear reactors to absorb neutrons.",
+    "symbol" : "Gd",
+    "weight" : "157.25"
+  }, {
+    "atomicNumber" : "65",
+    "boilingPoint" : "3230 C",
+    "density" : "8.219 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1356 C",
+    "name" : "Terbium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Terbium is a vital ingredient of magnetorestrictive alloys, ones that change length when exposed to a magnetic field. Such alloys are used in loudspeakers designed to push against solids rather than against air.",
+    "symbol" : "Tb",
+    "weight" : "158.93"
+  }, {
+    "atomicNumber" : "66",
+    "boilingPoint" : "2567 C",
+    "density" : "8.551 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1412 C",
+    "name" : "Dysprosium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Dysprosium compounds are used in the coatings of many hard disk drives to record digital data as field orientations in nanoscale magnetic domains. Other than that, dysprosium has few applications.",
+    "symbol" : "Dy",
+    "weight" : "162.5"
+  }, {
+    "atomicNumber" : "67",
+    "boilingPoint" : "2700 C",
+    "density" : "8.795 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1474 C",
+    "name" : "Holmium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Holmium is yet another rare earth lanthanide with important magnetic properties. It finds application in the pole pieces of the powerful magnets used for medical imaging.",
+    "symbol" : "Ho",
+    "weight" : "164.93"
+  }, {
+    "atomicNumber" : "68",
+    "boilingPoint" : "2868 C",
+    "density" : "9.066 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1497 C",
+    "name" : "Erbium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Erbium is used to dope fiber optic cables to improve their information carrying capability, which it does by helping to amplify the signal. It can also impart interesting colors to pottery glazes.",
+    "symbol" : "Er",
+    "weight" : "167.26"
+  }, {
+    "atomicNumber" : "69",
+    "boilingPoint" : "1950 C",
+    "density" : "9.32 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1545 C",
+    "name" : "Thulium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Thulium is among the most obscure elements in the periodic table. It has very few applications. Some people consider it the most useless of all naturally occurring elements, though others will rush to its defense.",
+    "symbol" : "Tm",
+    "weight" : "168.93"
+  }, {
+    "atomicNumber" : "70",
+    "boilingPoint" : "1196 C",
+    "density" : "6.57 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "819 C",
+    "name" : "Ytterbium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Ytterbium has useful catalytic properties and is finding increasing use in the chemical industry due to its low toxicity and relative abundance. It is the last of four elements named after the town of Ytterby, Sweden.",
+    "symbol" : "Yb",
+    "weight" : "173.05"
+  }, {
+    "atomicNumber" : "71",
+    "boilingPoint" : "3402 C",
+    "density" : "9.841 g/cm3",
+    "elementCategory" : "Rare Earth Metals",
+    "group" : "3",
+    "meltingPoint" : "1663 C",
+    "name" : "Lutetium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Lutetium has almost no applications. As a result it used to be the most expensive element in the world. These days it is easily available as a side product of other lanthanide production and its price has fallen.",
+    "symbol" : "Lu",
+    "weight" : "174.97"
+  }, {
+    "atomicNumber" : "72",
+    "boilingPoint" : "4603 C",
+    "density" : "13.31 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "4",
+    "meltingPoint" : "2233 C",
+    "name" : "Hafnium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "The inside surface of a huge high-purity hafnium crystal bar from Russia. The vapor deposition process used to make this bar yields the purest hafnium known.",
+    "symbol" : "Hf",
+    "weight" : "178.49"
+  }, {
+    "atomicNumber" : "73",
+    "boilingPoint" : "5458 C",
+    "density" : "16.65 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "5",
+    "meltingPoint" : "3017 C",
+    "name" : "Tantalum",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Tiny amounts of tantalum are used in the capacitors in all high tech devices. This slab would be enough for thousands of cell phones and laptop computers. It's also used for medical implants like skull plates.",
+    "symbol" : "Ta",
+    "weight" : "180.95"
+  }, {
+    "atomicNumber" : "74",
+    "boilingPoint" : "5555 C",
+    "density" : "19.25 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "6",
+    "meltingPoint" : "3422 C",
+    "name" : "Tungsten",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Tungsten is extremely hard to melt, so when large pieces are needed it is often sintered into solid form from loose powder, like this cube. The biggest application by far is tungsten wire for incandescent light bulbs.",
+    "symbol" : "W",
+    "weight" : "183.84"
+  }, {
+    "atomicNumber" : "75",
+    "boilingPoint" : "5596 C",
+    "density" : "21.02 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "7",
+    "meltingPoint" : "3186 C",
+    "name" : "Rhenium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Typical uses involve thin wires, fine powders, or chemical compounds, not half-inch-square solid bars.",
+    "symbol" : "Re",
+    "weight" : "186.21"
+  }, {
+    "atomicNumber" : "76",
+    "boilingPoint" : "5012 C",
+    "density" : "22.59 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "8",
+    "meltingPoint" : "3033 C",
+    "name" : "Osmium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Ultra dense osmium is alloyed with other precious metals to make them harder and stronger. It sometimes occurs naturally combined with iridium, and such osmiridium mixtures are used in fountain pen tips.",
+    "symbol" : "Os",
+    "weight" : "190.23"
+  }, {
+    "atomicNumber" : "77",
+    "boilingPoint" : "4428 C",
+    "density" : "22.56 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "9",
+    "meltingPoint" : "2466 C",
+    "name" : "Iridium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Iridium is extremely hard to melt: This lump only made it about half way to being melted, hence its odd shape. This property of iridium makes it useful in high-temperature situations, such as spark plug electrodes.",
+    "symbol" : "Ir",
+    "weight" : "192.22"
+  }, {
+    "atomicNumber" : "78",
+    "boilingPoint" : "3825 C",
+    "density" : "21.45 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "10",
+    "meltingPoint" : "1768.3 C",
+    "name" : "Platinum",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Pure platinum mesh, like mosquito netting except more expensive, is one example of platinum's use as labware impervious to nearly all chemical attack. It is also used in coins, which are similarly expensive.",
+    "symbol" : "Pt",
+    "weight" : "195.08"
+  }, {
+    "atomicNumber" : "79",
+    "boilingPoint" : "2856 C",
+    "density" : "19.3 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "11",
+    "meltingPoint" : "1064.18 C",
+    "name" : "Gold",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Gold is one of the few elements you can find just lying on the ground. This one-ounce nugget of pure gold was found in Alaska in 1890 by Hogamorth Marion, while on a trip to sell shoes to Eskimos. ",
+    "symbol" : "Au",
+    "weight" : "196.97"
+  }, {
+    "atomicNumber" : "80",
+    "boilingPoint" : "356.73 C",
+    "density" : "13.534 g/cm3",
+    "elementCategory" : "Transition Metals",
+    "group" : "12",
+    "meltingPoint" : "-38.83 C",
+    "name" : "Mercury",
+    "period" : "6",
+    "phase" : "Liquid",
+    "shortDetails" : "Mercury is the only metal element liquid at room temperature. It would be great fun to play with if it weren't so poisonous. This pool was shaped by carefully bending the black-painted foil it was resting on.",
+    "symbol" : "Hg",
+    "weight" : "200.59"
+  }, {
+    "atomicNumber" : "81",
+    "boilingPoint" : "1473 C",
+    "density" : "11.85 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "13",
+    "meltingPoint" : "304 C",
+    "name" : "Thallium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Thallium was used in a few murders before people caught on to its characteristic symptoms. This sizable lump could do in quite a few people, but isn't it pretty? The colors are from layers of thallium oxide.",
+    "symbol" : "Tl",
+    "weight" : "204.38"
+  }, {
+    "atomicNumber" : "82",
+    "boilingPoint" : "1749 C",
+    "density" : "11.34 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "14",
+    "meltingPoint" : "327.46 C",
+    "name" : "Lead",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Lead pipes have been in use for thousands of years. In some cases the same pipe the whole time. This exotic six-way union was hand made by an apprentice decades ago, and it duly impressed the master.",
+    "symbol" : "Pb",
+    "weight" : "207.2"
+  }, {
+    "atomicNumber" : "83",
+    "boilingPoint" : "1564 C",
+    "density" : "9.78 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "15",
+    "meltingPoint" : "271.3 C",
+    "name" : "Bismuth",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Bismuth loves to form beautiful crystals. You can make small ones without even trying, but one this big requires very pure bismuth and careful control of the cooling rate as the crystal is formed.",
+    "symbol" : "Bi",
+    "weight" : "208.98"
+  }, {
+    "atomicNumber" : "84",
+    "boilingPoint" : "962 C",
+    "density" : "9.196 g/cm3",
+    "elementCategory" : "Post-transition Metals",
+    "group" : "16",
+    "meltingPoint" : "254 C",
+    "name" : "Polonium",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Radioactive polonium foil is used in antistatic brushes as an electron source. The foil is silver with a thin plating of polonium, and an even thinner plating of gold over that. The gold is what you actually see.",
+    "symbol" : "Po",
+    "weight" : "209"
+  }, {
+    "atomicNumber" : "85",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Halogens",
+    "group" : "17",
+    "meltingPoint" : "302 C",
+    "name" : "Astatine",
+    "period" : "6",
+    "phase" : "Solid",
+    "shortDetails" : "Astatine occurs in vanishingly small quantities in the natural decay chains of uranium and thorium minerals.",
+    "symbol" : "At",
+    "weight" : "210"
+  }, {
+    "atomicNumber" : "86",
+    "boilingPoint" : "-61.7 C",
+    "density" : "9.73 g/l",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "-71 C",
+    "name" : "Radon",
+    "period" : "6",
+    "phase" : "Gas",
+    "shortDetails" : "Radon is a hard element to pin down: You can't see it because it's a clear gas, and you can't even have a vial of it because it's extremely radioactive and has a half life of only 3.2 days.",
+    "symbol" : "Rn",
+    "weight" : "222"
+  }, {
+    "atomicNumber" : "87",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Alkali Metals",
+    "group" : "1",
+    "meltingPoint" : "N/A",
+    "name" : "Francium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Uranium and thorium minerals produce francium in vanishingly small quantities via their natural radioisotope decay chains. At most a few atoms at a time exist in a rock like this, and you can't see any of them.",
+    "symbol" : "Fr",
+    "weight" : "223"
+  }, {
+    "atomicNumber" : "88",
+    "boilingPoint" : "1737 C",
+    "density" : "5 g/cm3",
+    "elementCategory" : "Alkali Earth Metals",
+    "group" : "2",
+    "meltingPoint" : "700 C",
+    "name" : "Radium",
+    "period" : "7",
+    "phaseP" : "Solid",
+    "shortDetails" : "Radium was widely used in self-luminous clock and watch hands, until too many watch factory workers had died of it. This antique watch is still quite radioactive, and will stay that way for thousands of years.",
+    "symbol" : "Ra",
+    "weight" : "226"
+  }, {
+    "atomicNumber" : "89",
+    "boilingPoint" : "3200 C",
+    "density" : "10.07 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1050 C",
+    "name" : "Actinium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Invisibly tiny amounts of actinium occur in some radioactive minerals, hence this picture of a radioactive rock. Actinium is used in thermoelectric generators, where its short half-life lets it generate intense heat.",
+    "symbol" : "Ac",
+    "weight" : "227"
+  }, {
+    "atomicNumber" : "90",
+    "boilingPoint" : "4820 C",
+    "density" : "11.724 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1750 C",
+    "name" : "Thorium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "This foil is what remained after useful shapes were stamped out, but what those shapes were useful for remains a mystery to me. Pure thorium metal like this is quite rare, and not easily obtained.",
+    "symbol" : "Th",
+    "weight" : "232.04"
+  }, {
+    "atomicNumber" : "91",
+    "boilingPoint" : "4000 C",
+    "density" : "15.37 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1572 C",
+    "name" : "Protactinium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Protactinium occurs in vanishingly small quantities in the natural decay chains of uranium and thorium minerals. At most a few atoms at a time exist in a rock like this, and you can't see any of them.",
+    "symbol" : "Pa",
+    "weight" : "231.04"
+  }, {
+    "atomicNumber" : "92",
+    "boilingPoint" : "3927 C",
+    "density" : "19.05 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1135 C",
+    "name" : "Uranium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "This is a chunk of depleted uranium metal, which is used in armor-piercing ammunition and counterweights. Only 20% less radioactive than natural uranium, it creates deadly hazards when used in anger.",
+    "symbol" : "U",
+    "weight" : "238.03"
+  }, {
+    "atomicNumber" : "93",
+    "boilingPoint" : "4000 C",
+    "density" : "20.45 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "644 C",
+    "name" : "Neptunium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Traces of neptunium have been found in uranium minerals like this sample, but not enough that you could ever see it. Neptunium is highly radioactive and has only a few exotic applications in nuclear research.",
+    "symbol" : "Np",
+    "weight" : "237"
+  }, {
+    "atomicNumber" : "94",
+    "boilingPoint" : "3230 C",
+    "density" : "19.816 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "640 C",
+    "name" : "Plutonium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "The plutonium pacemaker battery case is empty--fortunately. If it were full, possession of it anywhere outside a body would be a crime. All no-longer-needed plutonium batteries must go home to Los Alamos.",
+    "symbol" : "Pu",
+    "weight" : "244"
+  }, {
+    "atomicNumber" : "95",
+    "boilingPoint" : "2011 C",
+    "density" : "13.67 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1176 C",
+    "name" : "Americium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "A radioactive button like this is inside most smoke detectors. A trace of americium creates charged particles that betray the smoke. Americium is thus the only man-made element available in grocery stores.",
+    "symbol" : "Am",
+    "weight" : "243"
+  }, {
+    "atomicNumber" : "96",
+    "boilingPoint" : "3110 C",
+    "density" : "13.51 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1345 C",
+    "name" : "Curium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Curium is named after Marie and Pierre Curie, who discovered radium and polonium, but not curium. It has some specialized applications in research, but is not generally available outside a few institutions.",
+    "symbol" : "Cm",
+    "weight" : "247"
+  }, {
+    "atomicNumber" : "97",
+    "boilingPoint" : "N/A",
+    "density" : "14.78 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1050 C",
+    "name" : "Berkelium",
+    "period" : "7",
+    "phase" : "Gas",
+    "shortDetails" : "Berkelium is named after its place of discovery--the University of California at Berkeley. It has no applications, and, while an isotope with a half-life of 1380 years exists, no one seems to be making any.",
+    "symbol" : "Bk",
+    "weight" : "247"
+  }, {
+    "atomicNumber" : "98",
+    "boilingPoint" : "N/A",
+    "density" : "15.1 g/cm3",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "900 C",
+    "name" : "Californium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Californium is named after the state of California, home of UC Berkeley where it was discovered. It is used as a convenient portable neutron source for detection of precious metals and in oil well logging.",
+    "symbol" : "Cf",
+    "weight" : "251"
+  }, {
+    "atomicNumber" : "99",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "860 C",
+    "name" : "Einsteinium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "The most famous scientist of all time, Albert Einstein, obviously deserves to have an element named after him. Unfortunately his has a half-life of 472 days and no known applications. Better luck next time?",
+    "symbol" : "Es",
+    "weight" : "252"
+  }, {
+    "atomicNumber" : "100",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1527 C",
+    "name" : "Fermium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Fermium, named for physicist Enrico Fermi, has a half-life of 11 days and no applications. Fermi worked to create the first nuclear chain reaction in a squash court under the University of Chicago stadium.",
+    "symbol" : "Fm",
+    "weight" : "257"
+  }, {
+    "atomicNumber" : "101",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "828 C",
+    "name" : "Mendelevium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Mendelevium lives for 51 days and has no uses. Dmitri Mendeleev invented the periodic table and lives forever. So far all of the elements named after people have proved to be less important than the people.",
+    "symbol" : "Md",
+    "weight" : "258"
+  }, {
+    "atomicNumber" : "102",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "828 C",
+    "name" : "Nobelium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Alfred Nobel created the Nobel Prize, but never got one himself. At least he now has an element, though with a half-life of 12.6 hours and no applications his is not one of the more distinguished elements.",
+    "symbol" : "No",
+    "weight" : "259"
+  }, {
+    "atomicNumber" : "103",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Actinide Metals",
+    "group" : "3",
+    "meltingPoint" : "1627 C",
+    "name" : "Lawrencium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Lawrencium, named for atom smasher Ernest Lawrence of South Dakota, is the last element with a half-life longer than an hour (3.6 hours to be exact). From here on out the elements get pretty sketchy.",
+    "symbol" : "Lr",
+    "weight" : "262"
+  }, {
+    "atomicNumber" : "104",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "4",
+    "meltingPoint" : "N/A",
+    "name" : "Rutherfordium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Rutherfordium, half-life 65 seconds, is one of two elements in a row named after an Ernest (Rutherford in this case).",
+    "symbol" : "Rf",
+    "weight" : "267"
+  }, {
+    "atomicNumber" : "105",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "5",
+    "meltingPoint" : "N/A",
+    "name" : "Dubnium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Dubna, Russia hosts one of the few institutions creating new elements. It took a while, but after some lobbying they have their own element, just like Berkeley. But Berkeley has its state and country too.",
+    "symbol" : "Db",
+    "weight" : "270"
+  }, {
+    "atomicNumber" : "106",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "6",
+    "meltingPoint" : "N/A",
+    "name" : "Seaborgium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Glenn T. Seaborg is the only person ever to have an element named after him while he was still alive. He was responsible for discovering nearly a dozen super-heavy elements, making this a fitting honor.",
+    "symbol" : "Sg",
+    "weight" : "269"
+  }, {
+    "atomicNumber" : "107",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "7",
+    "meltingPoint" : "N/A",
+    "name" : "Bohrium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Bohrium is not boring, it's just named after Niels Bohr, who figured out the electron structure of atoms and thus explained the periodic table. (OK, bohrium, with a half-life under half a second, actually is boring.)",
+    "symbol" : "Bh",
+    "weight" : "270"
+  }, {
+    "atomicNumber" : "108",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "8",
+    "meltingPoint" : "N/A",
+    "name" : "Hassium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Hassium is named for Hessen, the state in Germany that is home to the institute at which it was discovered. It has a half-life of a few seconds, which is to say there's never been much of it.",
+    "symbol" : "Hs",
+    "weight" : "270"
+  }, {
+    "atomicNumber" : "109",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "9",
+    "meltingPoint" : "N/A",
+    "name" : "Meitnerium",
+    "period" : "7",
+    "phase" : "Solid",
+    "shortDetails" : "Lise Meitner did not share the Nobel Prize for atomic fission with Otto Hahn, as many thought she should have, but she did get the last laugh--her own element, a far less fleeting honor than a mere Nobel.",
+    "symbol" : "Mt",
+    "weight" : "278"
+  }, {
+    "atomicNumber" : "110",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "10",
+    "meltingPoint" : "N/A",
+    "name" : "Darmstadtium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Darmstadt is the latest city to get an element named after itself. Not many more are in the running, since you need to build huge nuclear accelerators, and elements get harder to make the higher you go.",
+    "symbol" : "Ds",
+    "weight" : "281"
+  }, {
+    "atomicNumber" : "111",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "11",
+    "meltingPoint" : "N/A",
+    "name" : "Roentgenium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Roentgenium is named for Wilhelm Conrad Roentgen, who discovered x-rays. His element is highly radioactive, but disappointingly it does not, despite its name, emit x-rays when it decays.",
+    "symbol" : "Rg",
+    "weight" : "281"
+  }, {
+    "atomicNumber" : "112",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Reactive Nonmetal",
+    "group" : "12",
+    "meltingPoint" : "N/A",
+    "name" : "Copernicium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Copernicium is named for the astronomer Nicolaus Copernicus, who had very little to do with elements or chemistry in general. It was discovered in 1996 but not named until fourteen years later, in early 2010.",
+    "symbol" : "Cn",
+    "weight" : "285"
+  }, {
+    "atomicNumber" : "113",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "13",
+    "meltingPoint" : "N/A",
+    "name" : "Nihonium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Nihonium is named for the country of Japan (Nihon is a roman-letter phonetic spelling of the Japanese name for Japan).",
+    "symbol" : "Nh",
+    "weight" : "286"
+  }, {
+    "atomicNumber" : "114",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "14",
+    "meltingPoint" : "N/A",
+    "name" : "Flerovium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Flerovium is named for the Flerov Laboratory of Nuclear Reactions, itself named for Soviet physicist Georgy Flerov. It was first detected in 1998 but not named until 2012.",
+    "symbol" : "Fl",
+    "weight" : "289"
+  }, {
+    "atomicNumber" : "115",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "15",
+    "meltingPoint" : "N/A",
+    "name" : "Moscovium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Moscovium is named for the region surrounding the city of Moscow in Russia, which contains the Join Institute for Nuclear Research where the element was discovered.",
+    "symbol" : "Mc",
+    "weight" : "289"
+  }, {
+    "atomicNumber" : "116",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Super Heavy Elements",
+    "group" : "16",
+    "meltingPoint" : "N/A",
+    "name" : "Livermorium",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Livermorium is named for the Lawrence Livermore National Laboratory. Its discovery was claimed in 1999 but then retracted due to the evidence having been fabricated. It was discovered for real in 2000.",
+    "symbol" : "Lv",
+    "weight" : "293"
+  }, {
+    "atomicNumber" : "117",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Halogens",
+    "group" : "17",
+    "meltingPoint" : "N/A",
+    "name" : "Tennessine",
+    "period" : "7",
+    "phase" : "Expected to be a Solid",
+    "shortDetails" : "Tennessine is named for the US State of Tennessee, where the element was not discovered. It was first confirmed in Russia, but important work leading to the discovery was done in Tennessee.",
+    "symbol" : "Ts",
+    "weight" : "294"
+  }, {
+    "atomicNumber" : "118",
+    "boilingPoint" : "N/A",
+    "density" : "N/A",
+    "elementCategory" : "Noble Gases",
+    "group" : "18",
+    "meltingPoint" : "N/A",
+    "name" : "Oganesson",
+    "period" : "7",
+    "phase" : "Gas",
+    "shortDetails" : "Oganesson is named for the physicist Yuri Oganessian. This is the last element in the standard form of the periodic table. It finishes the last row, and its discovery means that the table is now complete.",
+    "symbol" : "Og",
+    "weight" : "294"
+  } ]
+}
